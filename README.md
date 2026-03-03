@@ -2,7 +2,7 @@
 
 **AI Product Manager** based in Portland, OR — I build products at the intersection of AI and user value.
 
-I'm the founder of [Ventigen](https://ventigen.ai), an AI-native business planning tool built on Claude API that helps founders go from idea to full business plan through conversational research and automated document generation.
+I'm the founder of [Ventigen](https://ventigen.net), an AI-native business planning tool built on Claude API that helps founders go from idea to full business plan through conversational research and automated document generation.
 
 ---
 
