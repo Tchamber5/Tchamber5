@@ -18,7 +18,7 @@ I'm the founder of [Ventigen](https://ventigen.net), an AI-native business plann
 
 ## 🚀 Featured Projects
 
-### [Ventigen](https://github.com/Tchamber5/ventigen)
+### [Ventigen](https://github.com/Tchamber5/Ventigen-Showcase)
 > AI-native business planning tool powered by Claude API
 
 Ventigen turns an idea into a comprehensive business plan through a research chat interface and automated document generation. Built with a hybrid Claude Sonnet + Haiku model approach for performance and cost efficiency.
