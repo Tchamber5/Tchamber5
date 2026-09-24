@@ -38,7 +38,7 @@ A collection of experiments and prototypes built while learning the Anthropic AP
 
 ## 🧠 Background
 
-8+ years in Product Management across **retail**, **SaaS**, and **AI**. Previously at Nike, Symbeo, and Espo. PMP certified.
+8+ years in Program Management across **retail**, **SaaS**, and **AI**. Ex-Nike, PMP certified.
 
 I'm drawn to the space where AI stops being a feature and starts being the product — and I build hands-on to stay close to what's actually possible.
 
@@ -47,4 +47,3 @@ I'm drawn to the space where AI stops being a feature and starts being the produ
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-timothy--chambers-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/timothy-chambers/)
-[![Website](https://img.shields.io/badge/Website-timothychambers.me-000000?style=flat-square&logo=safari)](https://timothychambers.me)
